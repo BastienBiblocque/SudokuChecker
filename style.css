@@ -1,0 +1,7 @@
+input {
+    width: 30px;
+    height: 30px;
+}
+input[type=number] {
+    -moz-appearance: textfield;
+}
